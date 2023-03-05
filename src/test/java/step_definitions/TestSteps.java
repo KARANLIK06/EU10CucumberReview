@@ -5,7 +5,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.junit.Assert;
 
-public class testSteps {
+public class TestSteps {
 
     @Given("call the print method")
     public void call_the_print_method() {
